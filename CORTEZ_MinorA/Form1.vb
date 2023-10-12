@@ -8,6 +8,7 @@
     Dim IsNewOperation As Boolean
     Dim LastNum2Value As Double
     Dim LastNum3Value As Double
+    Dim LastNum4Value As Double
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
