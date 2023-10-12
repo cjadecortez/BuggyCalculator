@@ -1,0 +1,36 @@
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.exe.config
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.exe
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.pdb
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.xml
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.AssemblyReference.cache
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.Form1.resources
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.Resources.resources
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.GenerateResource.cache
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.CoreCompileInputs.cache
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.exe
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.xml
+D:\STUDENT FILES\CORTEZ, CATHERINE JADE (INFORMATION TECHNOLOGY - 1E2)\VB Net\Minor A\MinorA_Cortez\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.pdb
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.exe.config
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.exe
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.pdb
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.xml
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.AssemblyReference.cache
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.Form1.resources
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.Resources.resources
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.GenerateResource.cache
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.CoreCompileInputs.cache
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.exe
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.xml
+C:\Users\CJ\Documents\MFI\VB_Net\CORTEZ_MinorA\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.pdb
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.AssemblyReference.cache
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.Form1.resources
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.Resources.resources
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.GenerateResource.cache
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.vbproj.CoreCompileInputs.cache
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.exe
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.xml
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\obj\Debug\CORTEZ_MinorA.pdb
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.exe.config
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.exe
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.pdb
+C:\Users\CJ\Documents\MFI\VB_Net\MinorA_CORTEZ\CORTEZ_MinorA\bin\Debug\CORTEZ_MinorA.xml
